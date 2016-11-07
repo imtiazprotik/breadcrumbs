@@ -11,10 +11,10 @@ Step Two
 
 Call breadcrumbs.php in Theme Functions file
 
-/**
- * bread crumbs
- */
-//require get_template_directory() . '/inc/breadcrumbs.php'; 
+	/**
+	 * bread crumbs
+	 */
+	//require get_template_directory() . '/inc/breadcrumbs.php'; 
 
 Step Three
 ================
